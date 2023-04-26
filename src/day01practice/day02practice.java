@@ -5,5 +5,9 @@ public class day02practice {
 
 
         System.out.println("Ayse");
+        int a =12;
     }
 }
+//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
+//hocam password yerine bunu kopyalayin
+//herdefasında mı
