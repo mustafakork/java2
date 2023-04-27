@@ -2,6 +2,7 @@ package day01practice;
 
 public class deneme {
     public static void main(String[] args) {
+        String kelime = "ahemt";
         int a=10;
 
     }
